@@ -264,10 +264,13 @@ section {
     border-image-slice: 10;
 }
 
+
+/*galeria*/
+
+
 #section-stranger-things-gallery{
-    width: 100%;
-    justify-content: center;
-    background: var(--background-lamp-image) 120% / 50% no-repeat;
+    flex-direction: column;
+    align-items: center;
 }
 
 #section-stranger-things-gallery .container{
