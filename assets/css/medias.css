@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 361px) and (max-width: 600px){
 
     section {
         display: flex;
@@ -23,13 +23,13 @@
         max-width: 400px;
     }
 
-    /*section iframe*/
+    /*---------------SECTION IFRAME----------*/
 
     #section-stranger-things-trailer {
         display: none;
     }
     
-    /*section galeria*/
+    /*--------------GALERY------------*/
 
     #section-stranger-things-gallery .container {
         display: flex;
