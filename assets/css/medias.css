@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 361px) and (max-width: 600px){
+@media screen and (min-width: 361px) and (max-width: 600px){
 
     section {
         display: flex;
